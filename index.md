@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <title>Designer Gas Club - Game Rules</title>
-      <style>
-         body {
+<html>
+<head>
+<title>Designer Gas Club - Game Rules</title>
+<style>
+  {
          margin: 0;
          font-family: 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
          background: #121212;
@@ -67,10 +65,9 @@
          max-width: 95vw;
          }
          }
-      </style>
-   </head>
-   <body>
-      <div class="content">
+</head>
+<body>
+<div class="content">
          <h2>Game Rules</h2>
          <section>
             <h2>Basic Community Rules</h2>
@@ -723,4 +720,6 @@
          </section>
       </div>
    </body>
+</html>
+</body>
 </html>

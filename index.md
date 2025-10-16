@@ -66,7 +66,7 @@
          }
          }
 </head>
-<body>
+</body>
 <div class="content">
          <h2>Game Rules</h2>
          <section>

@@ -2,7 +2,7 @@
 <head>
 <title>Designer Gas Club - Game Rules</title>
 <style>
-  {
+ body {
          margin: 0;
          font-family: 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
          background: #121212;
